@@ -1,16 +1,16 @@
-📊 Análise de Turnover de Funcionários
-***📌 Visão Geral***
+ Análise de Turnover de Funcionários
+***Visão Geral***
 
 Este projeto tem como objetivo analisar a taxa de turnover de funcionários, identificando padrões de desligamento e áreas com maior rotatividade.
 A análise foi desenvolvida utilizando Excel, Python e Power BI, simulando um cenário real de análise de dados aplicada à área de Recursos Humanos.
 
-***🎯 Objetivo do Projeto***
+*** Objetivo do Projeto***
 
 Calcular a taxa de turnover geral da empresa
 Identificar departamentos e perfis com maior rotatividade
 Gerar insights que possam apoiar decisões estratégicas de RH
 
-***🗂️ Base de Dados***
+***Base de Dados***
 
 Foi utilizada uma base de dados pública disponibilizada no Kaggle:
 IBM HR Analytics – Employee Attrition & Performance
